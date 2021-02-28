@@ -12,7 +12,7 @@
         "schema": {
           "properties": {
             "en_us": {
-              "$ref": "#/definitions/metadata"
+              "$ref": "#../definitions/metadata"
             }
           },
           "additionalProperties": false,
